@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/valkyrie/Desktop/devops_class_12pm/Github_Actions/MyWebApp/MyWebApp.csproj": {}
+    "/home/valkyrie/Desktop/MyWebApp/MyWebApp.csproj": {}
   },
   "projects": {
-    "/home/valkyrie/Desktop/devops_class_12pm/Github_Actions/MyWebApp/MyWebApp.csproj": {
+    "/home/valkyrie/Desktop/MyWebApp/MyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/valkyrie/Desktop/devops_class_12pm/Github_Actions/MyWebApp/MyWebApp.csproj",
+        "projectUniqueName": "/home/valkyrie/Desktop/MyWebApp/MyWebApp.csproj",
         "projectName": "MyWebApp",
-        "projectPath": "/home/valkyrie/Desktop/devops_class_12pm/Github_Actions/MyWebApp/MyWebApp.csproj",
+        "projectPath": "/home/valkyrie/Desktop/MyWebApp/MyWebApp.csproj",
         "packagesPath": "/home/valkyrie/.nuget/packages/",
-        "outputPath": "/home/valkyrie/Desktop/devops_class_12pm/Github_Actions/MyWebApp/obj/",
+        "outputPath": "/home/valkyrie/Desktop/MyWebApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/valkyrie/.nuget/NuGet/NuGet.Config"
